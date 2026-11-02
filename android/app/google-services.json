@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953464873394",
+    "project_id": "rdx-restaurant-3ca6c",
+    "storage_bucket": "rdx-restaurant-3ca6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953464873394:android:7cef3e3ef4eb501d15c4ab",
+        "android_client_info": {
+          "package_name": "com.example.rdx_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nP11O39NLHhL4BXNj3YcbyCEv0MKeoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953464873394:android:35e0526250968a4215c4ab",
+        "android_client_info": {
+          "package_name": "com.restaurant.rdx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nP11O39NLHhL4BXNj3YcbyCEv0MKeoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
